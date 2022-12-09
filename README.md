@@ -1,5 +1,4 @@
-This repository contains the conde for my blog post, [A Look Into Taylor Swift's Record Smashing Charts over the 
-Eras](https://marykebbert.github.io/stat386-projects/2022/12/07/datastory.html).
+This repository contains the code for my blog post, [A Look Into Taylor Swift's Record Breaking Charts over the Eras](https://marykebbert.github.io/stat386-projects/2022/12/07/datastory.html).
 
 - album_rankings.ipynb contains the code to scrape the Taylor Swift's album rankings from the [Billboard 
 200](https://www.billboard.com/charts/billboard-200/).  
