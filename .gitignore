@@ -1,0 +1,7 @@
+.DS_store
+.ipynb_checkpoints
+.cache
+__pycache__
+__pycache__/*
+dash_files/*
+dash_files
